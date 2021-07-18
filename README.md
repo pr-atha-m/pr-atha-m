@@ -14,9 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">
-  <img src="https://github.com/pr-atha-m/hydra-pratham/blob/master/name.png" />
-</h1>
 
 ## Hey! 👋
 I'm Pratham, Student at Birla Institute of Technology, Mesra .
