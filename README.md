@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 I'm Pratham, Student at Birla Institute of Technology, Mesra .
 
 ## Skills
-- 👨‍💻 C++, Python 
+- 👨‍💻 C++, Python
 - 👁️ HTML , CSS 
-- 💽 SQL
+- 💽 SQL , Data Science
 
