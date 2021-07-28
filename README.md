@@ -6,7 +6,7 @@
 
 <br/>
 <div align="center">
-<img src="https://github.com/pr-atha-m/pr-atha-m/blob/main/ezgif.com-gif-maker.gif" alt="Pratham Bist Typer"  />
+<img src="b0d3fa951864bc5c4d1aea790598d6e7f1f33d1c.png" alt="Pratham Bist Typer"  width="750" height="580" />
 </div>
 <br/>
 
