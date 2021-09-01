@@ -6,7 +6,7 @@
 
 <br/>
 <div align="center">
-<img src="b0d3fa951864bc5c4d1aea790598d6e7f1f33d1c.png" alt="Pratham Bist Typer"  width="750" height="580" />
+<img src="fotis-fotopoulos-SyvsTmuuZyM-unsplash.jpg" alt="Pratham Bist Typer"  width="750" height="580" />
 </div>
 <br/>
 
