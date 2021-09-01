@@ -26,7 +26,7 @@
 </div>
 <br/>
 
-I am Pratham Bist , I am a pre-final year graduate at BIT Mesra , 
+I am Pratham Bist , pre-final year graduate at BIT Mesra , 
 currently pursuing Btech in Electronics and Communications Engineering (ECE).
 
 
