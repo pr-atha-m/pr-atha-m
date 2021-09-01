@@ -1,6 +1,22 @@
-<div align="center">
-<img src="https://github.com/pr-atha-m/pr-atha-m/blob/main/octo.gif" alt="GitHub Logo" width="150" height="150" />
-</div>
+### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<a href="https://www.instagram.com/pratham_bist_/">
+  <img align="left" alt="Pratham Instagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://www.hackerrank.com/bistpratham">
+  <img align="left" alt="Pratham's Hackerrank" width="100px" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
+</a>
+
+<a href="https://www.codechef.com/users/hydra_pratham">
+  <img align="left" alt="Pratham's Codechef" width="100px" src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/prathambist/">
+  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
+
+![](https://visitor-badge.glitch.me/badge?page_id=prathambist.prathambist)
+
+<br />
 
 # Welcome To My GitHub Profile !
 
@@ -10,11 +26,8 @@
 </div>
 <br/>
 
-
-
-
-## Hey! 👋
-I'm Pratham, Student at Birla Institute of Technology, Mesra .
+I am Pratham Bist , I am a pre-final year graduate at BIT Mesra , 
+currently pursuing Btech in Electronics and Communications Engineering (ECE).
 
 
 <br>
@@ -28,7 +41,7 @@ I'm Pratham, Student at Birla Institute of Technology, Mesra .
 <br>
 <b><h4>✪ My Profile views ✪</b></h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pr-atha-m3&label=Profile%20views&color=0e75b6&style=flat" alt="pr-atha-m" /> </p>
+<img src="https://komarev.com/ghpvc/?username=pr-atha-m3&label=Profile%20views&color=0e75b6&style=flat" alt="pr-atha-m" /> </p>
 
 <b><h4>✪ My Contributions and streaks ✪</b></h4>
 
