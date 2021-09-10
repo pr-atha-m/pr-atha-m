@@ -58,6 +58,3 @@ currently pursuing Btech in Electronics and Communications Engineering (ECE).
 - 💽 SQL , Data Science
 
 
-<p align="center">
-  <img src="https://github.com/pr-atha-m/pr-atha-m/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
