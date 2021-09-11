@@ -1,4 +1,6 @@
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<h3>Connect with me:</h3>
+<p align="center">
 <a href="https://www.instagram.com/pratham_bist_/">
   <img align="left" alt="Pratham Instagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
@@ -10,9 +12,10 @@
   <img align="left" alt="Pratham's Codechef" width="100px" src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/prathambist/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Pratham's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
+</p>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=prathambist.prathambist)
 
