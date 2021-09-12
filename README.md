@@ -57,7 +57,7 @@ currently pursuing Btech in Electronics and Communications Engineering (ECE).
 
 
 ## Skills
-- 👨‍💻 C++, Python
+- 👨‍💻 C++, Python , DSA , OOPS
 - 👁️ HTML , CSS 
 - 💽 SQL , Data Science
 
