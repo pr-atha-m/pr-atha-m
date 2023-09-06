@@ -12,9 +12,7 @@
 <a href="https://www.codechef.com/users/hydra_pratham">
   <img align="left" alt="Pratham's Codechef" width="100px" src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/prathambist/">
-  <img align="left" alt="Pratham's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+
 
 </p>
 
